@@ -1,0 +1,13 @@
+Indira Gandhi National University:
+
+1.Visibility of the System(feedback):The page showing the information of the Indira Gandhi University.
+Complete information is provided about the University.
+
+2.Match between system and the real world(Metaphor):Too much of documentation is provided in different categories.
+The website is easy to understand by the user.  
+
+3.User control and freedom(Navigation):
+4.Consistency and standards(Consistency):
+5.Error Prevention:
+6.Recognation rather than:
+7.Flexibility and Efficiency:
